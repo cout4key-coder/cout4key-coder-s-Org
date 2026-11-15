@@ -1,0 +1,6 @@
+{
+  "name": "بوابة التربية | Bewaba Tarbia",
+  "description": "منصة نشر وتجارة تعليمية متخصصة في مراجع مسابقات التوظيف والترقية في قطاع التربية الوطنية بالجزائر",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

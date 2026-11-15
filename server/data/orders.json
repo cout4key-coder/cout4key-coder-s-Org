@@ -1,0 +1,148 @@
+[
+  {
+    "id": "ord-1794409716574",
+    "referenceCode": "BT-2026-8189",
+    "customerName": "عبد الرحمن بوعبد الله",
+    "email": "abderrahmane@example.com",
+    "phone": "0550123456",
+    "phoneSecondary": "",
+    "wilayaCode": "16",
+    "wilayaName": "16 - الجزائر العاصمة",
+    "commune": "بئر مراد رايس",
+    "address": "حي عين النعجة عمارة 12",
+    "deliveryType": "home",
+    "deliveryFeeDZD": 550,
+    "items": [
+      {
+        "productId": "prod-001",
+        "productTitle": "كتاب الدليل: المرجع الشامل لاجتياز مسابقة مشرف تربية",
+        "productPriceDZD": 1900,
+        "quantity": 1,
+        "coverImage": "/covers/book_dalil_mouchrif.png"
+      }
+    ],
+    "subtotalDZD": 1900,
+    "totalDZD": 2450,
+    "notes": "",
+    "status": "جديد",
+    "statusNotes": "طلب جديد مسجل في انتظار تأكيد المكالمة الهاتفية",
+    "createdAt": "2026-11-11T15:08:36.574Z"
+  },
+  {
+    "id": "ord-1794405713263",
+    "referenceCode": "BT-2026-3454",
+    "customerName": "سليمان قاسم",
+    "phone": "0550112233",
+    "phoneSecondary": "",
+    "wilayaCode": "16",
+    "wilayaName": "16 - الجزائر العاصمة",
+    "commune": "الجزائر الوسطى",
+    "address": "",
+    "deliveryType": "home",
+    "deliveryFeeDZD": 550,
+    "items": [
+      {
+        "productId": "prod-001",
+        "productTitle": "كتاب الدليل: المرجع الشامل لاجتياز مسابقة مشرف تربية",
+        "productPriceDZD": 1900,
+        "quantity": 1,
+        "coverImage": "/covers/book_dalil_mouchrif.png"
+      }
+    ],
+    "subtotalDZD": 1900,
+    "totalDZD": 2450,
+    "notes": "",
+    "status": "جديد",
+    "statusNotes": "طلب جديد مسجل في انتظار تأكيد المكالمة الهاتفية",
+    "createdAt": "2026-11-11T14:01:53.263Z"
+  },
+  {
+    "id": "ord-1794341974426",
+    "referenceCode": "BT-2026-8326",
+    "customerName": "اختبار الأمان",
+    "phone": "0661998877",
+    "phoneSecondary": "",
+    "wilayaCode": "16",
+    "wilayaName": "16 - الجزائر العاصمة",
+    "commune": "بئر مراد رايس",
+    "address": "استلام من مكتب التوصيل الولائي",
+    "deliveryType": "desk",
+    "deliveryFeeDZD": 300,
+    "items": [
+      {
+        "productId": "prod-001",
+        "productTitle": "كتاب الدليل: المرجع الشامل لاجتياز مسابقة مشرف تربية",
+        "productPriceDZD": 1900,
+        "quantity": 2,
+        "coverImage": "/covers/book_dalil_mouchrif.png"
+      }
+    ],
+    "subtotalDZD": 3800,
+    "totalDZD": 4100,
+    "notes": "",
+    "status": "مؤكد",
+    "statusNotes": "تم تأكيد الطلبية هاتفياً وجاهزة للشحن",
+    "createdAt": "2026-11-10T20:19:34.426Z"
+  },
+  {
+    "id": "ord-1001",
+    "referenceCode": "BT-2026-9412",
+    "customerName": "عبد الرحمن براهيمي",
+    "phone": "0554123456",
+    "wilayaCode": "16",
+    "wilayaName": "الجزائر العاصمة",
+    "commune": "القبة",
+    "address": "حي المنظر الجميل، عمارة ب رقم 12",
+    "deliveryType": "home",
+    "deliveryFeeDZD": 450,
+    "items": [
+      {
+        "productId": "prod-001",
+        "productTitle": "دليل المترشح لمسابقة مشرف التربية",
+        "productPriceDZD": 1850,
+        "quantity": 1,
+        "coverImage": "/covers/cover_mouchrif.svg"
+      }
+    ],
+    "subtotalDZD": 1850,
+    "totalDZD": 2300,
+    "notes": "يرجى الاتصال قبل الوصول بنصف ساعة",
+    "status": "مؤكد",
+    "statusNotes": "تم الاتصال بالزبون وتأكيد الطلبية للمنزل",
+    "createdAt": "2026-03-27T10:15:00.000Z"
+  },
+  {
+    "id": "ord-1002",
+    "referenceCode": "BT-2026-8831",
+    "customerName": "فاطمة الزهراء بن عيسى",
+    "phone": "0661987654",
+    "wilayaCode": "19",
+    "wilayaName": "سطيف",
+    "commune": "العلمة",
+    "address": "شارع أول نوفمبر قرب البريد المركزي",
+    "deliveryType": "desk",
+    "deliveryFeeDZD": 350,
+    "items": [
+      {
+        "productId": "prod-002",
+        "productTitle": "الوجيز في علوم التربية وعلم النفس التربوي",
+        "productPriceDZD": 2100,
+        "quantity": 1,
+        "coverImage": "/covers/cover_ouloum_tarbia.svg"
+      },
+      {
+        "productId": "prod-005",
+        "productTitle": "بنك المواضيع المصححة لمسابقات توظيف الأساتذة",
+        "productPriceDZD": 1950,
+        "quantity": 1,
+        "coverImage": "/covers/cover_mawada.svg"
+      }
+    ],
+    "subtotalDZD": 4050,
+    "totalDZD": 4400,
+    "notes": "الاستلام من مكتب التوصيل بالعلمة",
+    "status": "قيد الشحن",
+    "statusNotes": "تم تسليم الطرد لشركة التوصيل برقم التتبع YL-891234",
+    "createdAt": "2026-03-27T14:30:00.000Z"
+  }
+]

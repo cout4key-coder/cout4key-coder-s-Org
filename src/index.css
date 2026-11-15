@@ -1,0 +1,44 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --brand-primary: #123B5D;
+    --brand-secondary: #2D8FCB;
+    --brand-gold: #D9A441;
+    --brand-gold-dark: #B8852B;
+    --brand-green: #006233;
+    --brand-red: #D21034;
+    --brand-charcoal: #17212B;
+  }
+
+  body {
+    font-family: 'Cairo', 'Tajawal', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    direction: rtl;
+    text-align: right;
+  }
+
+  /* Accessible focus styling */
+  *:focus-visible {
+    outline: 2px solid var(--brand-secondary);
+    outline-offset: 2px;
+  }
+}
+
+/* Custom scrollbar for modern browsers */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #F1F5F9;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #CBD5E1;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #94A3B8;
+}

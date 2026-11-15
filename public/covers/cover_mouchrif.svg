@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 850" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0E283F"/>
+      <stop offset="50%" stop-color="#123B5D"/>
+      <stop offset="100%" stop-color="#091A2A"/>
+    </linearGradient>
+    <linearGradient id="goldGrad1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#B8852B"/>
+      <stop offset="50%" stop-color="#F3C363"/>
+      <stop offset="100%" stop-color="#D9A441"/>
+    </linearGradient>
+    <filter id="shadow1" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="8" stdDeviation="6" flood-color="#000" flood-opacity="0.4"/>
+    </filter>
+  </defs>
+
+  <!-- Background Base -->
+  <rect width="600" height="850" fill="url(#bgGrad1)"/>
+
+  <!-- Book Spine Indicator Left -->
+  <rect x="0" y="0" width="35" height="850" fill="#091826" opacity="0.7"/>
+  <line x1="35" y1="0" x2="35" y2="850" stroke="#F3C363" stroke-width="1.5" opacity="0.4"/>
+  <line x1="42" y1="0" x2="42" y2="850" stroke="#000" stroke-width="1" opacity="0.3"/>
+
+  <!-- Subtle Islamic/Geometric Frame -->
+  <rect x="55" y="45" width="490" height="760" fill="none" stroke="#D9A441" stroke-width="1.5" stroke-opacity="0.35"/>
+  <rect x="65" y="55" width="470" height="740" fill="none" stroke="#D9A441" stroke-width="0.75" stroke-opacity="0.2"/>
+
+  <!-- Corner Accents -->
+  <path d="M55 75 L75 55 M545 75 L525 55 M55 785 L75 805 M545 785 L525 805" stroke="#F3C363" stroke-width="2" stroke-opacity="0.7"/>
+
+  <!-- Publisher Header -->
+  <text x="300" y="95" text-anchor="middle" font-family="'Cairo', sans-serif" font-weight="700" font-size="16" fill="#D9A441" letter-spacing="2">
+    سلسلة المراجع المهنية في التربية الوطنية
+  </text>
+  <line x1="200" y1="112" x2="400" y2="112" stroke="#D9A441" stroke-width="1" stroke-opacity="0.5"/>
+
+  <!-- Target Role Badge -->
+  <rect x="180" y="145" width="240" height="38" rx="6" fill="#1F4C74" stroke="#2D8FCB" stroke-width="1"/>
+  <text x="300" y="170" text-anchor="middle" font-family="'Cairo', sans-serif" font-weight="700" font-size="16" fill="#FFFFFF">
+    مسابقة التوظيف والترقية
+  </text>
+
+  <!-- Main Title Area -->
+  <text x="300" y="275" text-anchor="middle" font-family="'Cairo', sans-serif" font-weight="900" font-size="44" fill="#FFFFFF" filter="url(#shadow1)">
+    دليل المترشح لمسابقة
+  </text>
+  <text x="300" y="345" text-anchor="middle" font-family="'Cairo', sans-serif" font-weight="900" font-size="52" fill="url(#goldGrad1)">
+    مشرف التربية
+  </text>
+
+  <!-- Subtitle -->
+  <text x="300" y="405" text-anchor="middle" font-family="'Cairo', sans-serif" font-weight="600" font-size="18" fill="#CBD5E1">
+    المهام التربوية والإدارية · التشريع المدرسي
+  </text>
+  <text x="300" y="435" text-anchor="middle" font-family="'Cairo', sans-serif" font-weight="600" font-size="16" fill="#94A3B8">
+    النظام الداخلي للمؤسسات وحل النزاعات الصفية
+  </text>
+
+  <!-- Central Emblem / Icon Graphic -->
+  <g transform="translate(300, 545)">
+    <circle r="75" fill="#132B40" stroke="#D9A441" stroke-width="2"/>
+    <circle r="65" fill="none" stroke="#2D8FCB" stroke-width="1" stroke-dasharray="4,4"/>
+    <!-- Book & Scale Icon -->
+    <path d="M-30 15 C-15 0 0 5 0 5 C0 5 15 0 30 15 L30 -25 C15 -40 0 -35 0 -35 C0 -35 -15 -40 -30 -25 Z" fill="none" stroke="#F3C363" stroke-width="3.5" stroke-linejoin="round"/>
+    <line x1="0" y1="-35" x2="0" y2="5" stroke="#F3C363" stroke-width="3"/>
+    <circle cx="0" cy="-42" r="5" fill="#F3C363"/>
+  </g>
+
+  <!-- Features Strip -->
+  <rect x="90" y="665" width="420" height="50" rx="4" fill="#0C2033" stroke="#1E3E5C" stroke-width="1"/>
+  <text x="300" y="695" text-anchor="middle" font-family="'Cairo', sans-serif" font-weight="700" font-size="15" fill="#F3C363">
+    يحتوي على مواضيع سابقة مصححة + نصوص تشريعية محينة
+  </text>
+
+  <!-- Bottom Brand Footnote -->
+  <text x="300" y="765" text-anchor="middle" font-family="'Cairo', sans-serif" font-weight="800" font-size="20" fill="#FFFFFF">
+    بوابة التربية
+  </text>
+  <text x="300" y="788" text-anchor="middle" font-family="'Cairo', sans-serif" font-weight="500" font-size="12" fill="#94A3B8">
+    طبعة 2026 المنقحة والمعتمدة
+  </text>
+</svg>

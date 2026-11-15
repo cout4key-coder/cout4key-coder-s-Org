@@ -1,0 +1,881 @@
+[
+  {
+    "code": "01",
+    "nameAr": "أدرار",
+    "nameFr": "Adrar",
+    "deskDeliveryFeeDZD": 650,
+    "homeDeliveryFeeDZD": 950,
+    "deliveryDelayHours": "48-72 ساعة",
+    "communes": [
+      "أدرar",
+      "تيمقطن",
+      "تسابيت",
+      "فنوغيل",
+      "زاوية كنتة"
+    ]
+  },
+  {
+    "code": "02",
+    "nameAr": "الشلف",
+    "nameFr": "Chlef",
+    "deskDeliveryFeeDZD": 400,
+    "homeDeliveryFeeDZD": 600,
+    "deliveryDelayHours": "24-48 ساعة",
+    "communes": [
+      "الشلف",
+      "تنس",
+      "بوقادير",
+      "وادي الفضة",
+      "أولاد فارس"
+    ]
+  },
+  {
+    "code": "03",
+    "nameAr": "الأغواط",
+    "nameFr": "Laghouat",
+    "deskDeliveryFeeDZD": 450,
+    "homeDeliveryFeeDZD": 700,
+    "deliveryDelayHours": "24-48 ساعة",
+    "communes": [
+      "الأغواط",
+      "أفلو",
+      "قصر الحيران",
+      "عين ماضي",
+      "حاسي الرمل"
+    ]
+  },
+  {
+    "code": "04",
+    "nameAr": "أم البواقي",
+    "nameFr": "Oum El Bouaghi",
+    "deskDeliveryFeeDZD": 400,
+    "homeDeliveryFeeDZD": 650,
+    "deliveryDelayHours": "24-48 ساعة",
+    "communes": [
+      "أم البواقي",
+      "عين البيضاء",
+      "عين مليلة",
+      "سيقوس",
+      "مسكيانة"
+    ]
+  },
+  {
+    "code": "05",
+    "nameAr": "باتنة",
+    "nameFr": "Batna",
+    "deskDeliveryFeeDZD": 400,
+    "homeDeliveryFeeDZD": 650,
+    "deliveryDelayHours": "24-48 ساعة",
+    "communes": [
+      "باتنة",
+      "بريكة",
+      "عين التوتة",
+      "مروانة",
+      "أريس",
+      "المعذر"
+    ]
+  },
+  {
+    "code": "06",
+    "nameAr": "بجاية",
+    "nameFr": "Béjaïa",
+    "deskDeliveryFeeDZD": 400,
+    "homeDeliveryFeeDZD": 650,
+    "deliveryDelayHours": "24-48 ساعة",
+    "communes": [
+      "بجاية",
+      "أقبو",
+      "أميزور",
+      "سيدي عيش",
+      "خراطة",
+      "القصر"
+    ]
+  },
+  {
+    "code": "07",
+    "nameAr": "بسكرة",
+    "nameFr": "Biskra",
+    "deskDeliveryFeeDZD": 450,
+    "homeDeliveryFeeDZD": 700,
+    "deliveryDelayHours": "24-48 ساعة",
+    "communes": [
+      "بسكرة",
+      "طولقة",
+      "سيدي عقبة",
+      "الوطاية",
+      "زريبة الوادي"
+    ]
+  },
+  {
+    "code": "08",
+    "nameAr": "بشار",
+    "nameFr": "Béchar",
+    "deskDeliveryFeeDZD": 600,
+    "homeDeliveryFeeDZD": 850,
+    "deliveryDelayHours": "48-72 ساعة",
+    "communes": [
+      "بشار",
+      "القنادسة",
+      "العبادلة",
+      "تاغيت",
+      "لحمر"
+    ]
+  },
+  {
+    "code": "09",
+    "nameAr": "البليدة",
+    "nameFr": "Blida",
+    "deskDeliveryFeeDZD": 350,
+    "homeDeliveryFeeDZD": 500,
+    "deliveryDelayHours": "24-48 ساعة",
+    "communes": [
+      "البليدة",
+      "بوفاريك",
+      "أولاد يعيش",
+      "العفرون",
+      "الشبلي",
+      "موزاية"
+    ]
+  },
+  {
+    "code": "10",
+    "nameAr": "البويرة",
+    "nameFr": "Bouira",
+    "deskDeliveryFeeDZD": 350,
+    "homeDeliveryFeeDZD": 550,
+    "deliveryDelayHours": "24-48 ساعة",
+    "communes": [
+      "البويرة",
+      "الأخضرية",
+      "عين بسام",
+      "سور الغزلان",
+      "مشد الله"
+    ]
+  },
+  {
+    "code": "11",
+    "nameAr": "تمنراست",
+    "nameFr": "Tamanrasset",
+    "deskDeliveryFeeDZD": 750,
+    "homeDeliveryFeeDZD": 1100,
+    "deliveryDelayHours": "72-96 ساعة",
+    "communes": [
+      "تمنراست",
+      "عين أمقل",
+      "أبلسة",
+      "تاظروك",
+      "إدلس"
+    ]
+  },
+  {
+    "code": "12",
+    "nameAr": "تبسة",
+    "nameFr": "Tébessa",
+    "deskDeliveryFeeDZD": 450,
+    "homeDeliveryFeeDZD": 700,
+    "deliveryDelayHours": "24-48 ساعة",
+    "communes": [
+      "تبسة",
+      "بئر العاتر",
+      "الشريعة",
+      "الونزة",
+      "العوينات"
+    ]
+  },
+  {
+    "code": "13",
+    "nameAr": "تلمسان",
+    "nameFr": "Tlemcen",
+    "deskDeliveryFeeDZD": 400,
+    "homeDeliveryFeeDZD": 650,
+    "deliveryDelayHours": "24-48 ساعة",
+    "communes": [
+      "تلمسان",
+      "مغنية",
+      "منصورة",
+      "سبدو",
+      "شتوان",
+      "الغزوات"
+    ]
+  },
+  {
+    "code": "14",
+    "nameAr": "تيارت",
+    "nameFr": "Tiaret",
+    "deskDeliveryFeeDZD": 400,
+    "homeDeliveryFeeDZD": 650,
+    "deliveryDelayHours": "24-48 ساعة",
+    "communes": [
+      "تيارت",
+      "السوقر",
+      "فرندة",
+      "قصر الشلالة",
+      "مهدية"
+    ]
+  },
+  {
+    "code": "15",
+    "nameAr": "تيزي وزو",
+    "nameFr": "Tizi Ouzou",
+    "deskDeliveryFeeDZD": 350,
+    "homeDeliveryFeeDZD": 550,
+    "deliveryDelayHours": "24-48 ساعة",
+    "communes": [
+      "تيزي وزو",
+      "ذراع بن خدة",
+      "عزازقة",
+      "تيزي غنيف",
+      "لاربعا ناث إيراثن"
+    ]
+  },
+  {
+    "code": "16",
+    "nameAr": "الجزائر العاصمة",
+    "nameFr": "Alger",
+    "deskDeliveryFeeDZD": 350,
+    "homeDeliveryFeeDZD": 550,
+    "deliveryDelayHours": "24 ساعة",
+    "communes": [
+      "الجزائر الوسطى",
+      "باب الوادي",
+      "حيدرة",
+      "القبة",
+      "بئر مراد رايس",
+      "الحراش",
+      "الدار البيضاء",
+      "برج البحري",
+      "زرالدة",
+      "الشراقة",
+      "درارية",
+      "بئر خادم",
+      "رويبة"
+    ]
+  },
+  {
+    "code": "17",
+    "nameAr": "الجلفة",
+    "nameFr": "Djelfa",
+    "deskDeliveryFeeDZD": 450,
+    "homeDeliveryFeeDZD": 700,
+    "deliveryDelayHours": "24-48 ساعة",
+    "communes": [
+      "الجلفة",
+      "عين وسارة",
+      "مسعد",
+      "حاسي بحبح",
+      "الشارف"
+    ]
+  },
+  {
+    "code": "18",
+    "nameAr": "جيجل",
+    "nameFr": "Jijel",
+    "deskDeliveryFeeDZD": 400,
+    "homeDeliveryFeeDZD": 650,
+    "deliveryDelayHours": "24-48 ساعة",
+    "communes": [
+      "جيجل",
+      "طاهير",
+      "الميلية",
+      "العوانة",
+      "العنصر"
+    ]
+  },
+  {
+    "code": "19",
+    "nameAr": "سطيف",
+    "nameFr": "Sétif",
+    "deskDeliveryFeeDZD": 350,
+    "homeDeliveryFeeDZD": 600,
+    "deliveryDelayHours": "24-48 ساعة",
+    "communes": [
+      "سطيف",
+      "العلمة",
+      "عين ولمان",
+      "بوقاعة",
+      "عين أزال",
+      "بني ورتيلان"
+    ]
+  },
+  {
+    "code": "20",
+    "nameAr": "سعيدة",
+    "nameFr": "Saïda",
+    "deskDeliveryFeeDZD": 400,
+    "homeDeliveryFeeDZD": 650,
+    "deliveryDelayHours": "24-48 ساعة",
+    "communes": [
+      "سعيدة",
+      "عين الحجر",
+      "يوب",
+      "سيدي بوبكر",
+      "أولاد خالد"
+    ]
+  },
+  {
+    "code": "21",
+    "nameAr": "سكيكدة",
+    "nameFr": "Skikda",
+    "deskDeliveryFeeDZD": 400,
+    "homeDeliveryFeeDZD": 650,
+    "deliveryDelayHours": "24-48 ساعة",
+    "communes": [
+      "سكيكدة",
+      "القل",
+      "عزابة",
+      "الحروش",
+      "تمالوس"
+    ]
+  },
+  {
+    "code": "22",
+    "nameAr": "سيدي بلعباس",
+    "nameFr": "Sidi Bel Abbès",
+    "deskDeliveryFeeDZD": 400,
+    "homeDeliveryFeeDZD": 650,
+    "deliveryDelayHours": "24-48 ساعة",
+    "communes": [
+      "سيدي بلعباس",
+      "تلاغ",
+      "سفيزف",
+      "ابن باديس",
+      "رأس الماء"
+    ]
+  },
+  {
+    "code": "23",
+    "nameAr": "عنابة",
+    "nameFr": "Annaba",
+    "deskDeliveryFeeDZD": 400,
+    "homeDeliveryFeeDZD": 650,
+    "deliveryDelayHours": "24-48 ساعة",
+    "communes": [
+      "عنابة",
+      "البوني",
+      "سيدي عمار",
+      "برحال",
+      "الحجار",
+      "عين الباردة"
+    ]
+  },
+  {
+    "code": "24",
+    "nameAr": "قالمة",
+    "nameFr": "Guelma",
+    "deskDeliveryFeeDZD": 400,
+    "homeDeliveryFeeDZD": 650,
+    "deliveryDelayHours": "24-48 ساعة",
+    "communes": [
+      "قالمة",
+      "وادي الزناتي",
+      "بوشقوف",
+      "هليوبوليس",
+      "حمام دباغ"
+    ]
+  },
+  {
+    "code": "25",
+    "nameAr": "قسنطينة",
+    "nameFr": "Constantine",
+    "deskDeliveryFeeDZD": 350,
+    "homeDeliveryFeeDZD": 600,
+    "deliveryDelayHours": "24-48 ساعة",
+    "communes": [
+      "قسنطينة",
+      "الخروب",
+      "علي منجلي",
+      "حامة بوزيان",
+      "ديدوش مراد",
+      "زيغود يوسف"
+    ]
+  },
+  {
+    "code": "26",
+    "nameAr": "المدية",
+    "nameFr": "Médéa",
+    "deskDeliveryFeeDZD": 350,
+    "homeDeliveryFeeDZD": 550,
+    "deliveryDelayHours": "24-48 ساعة",
+    "communes": [
+      "المدية",
+      "البرواقية",
+      "قصر البخاري",
+      "وزرة",
+      "تابلاط",
+      "بني سليمان"
+    ]
+  },
+  {
+    "code": "27",
+    "nameAr": "مستغانم",
+    "nameFr": "Mostaganem",
+    "deskDeliveryFeeDZD": 400,
+    "homeDeliveryFeeDZD": 650,
+    "deliveryDelayHours": "24-48 ساعة",
+    "communes": [
+      "مستغانم",
+      "عين تادلس",
+      "حاسي ماماش",
+      "سيدي علي",
+      "ماسرة"
+    ]
+  },
+  {
+    "code": "28",
+    "nameAr": "المسيلة",
+    "nameFr": "M'Sila",
+    "deskDeliveryFeeDZD": 450,
+    "homeDeliveryFeeDZD": 700,
+    "deliveryDelayHours": "24-48 ساعة",
+    "communes": [
+      "المسيلة",
+      "بوسعادة",
+      "سيدي عيسى",
+      "مقرة",
+      "عين الحجل",
+      "حمام الضلعة"
+    ]
+  },
+  {
+    "code": "29",
+    "nameAr": "معسكر",
+    "nameFr": "Mascara",
+    "deskDeliveryFeeDZD": 400,
+    "homeDeliveryFeeDZD": 650,
+    "deliveryDelayHours": "24-48 ساعة",
+    "communes": [
+      "معسكر",
+      "سيق",
+      "تيغنيف",
+      "المحمدية",
+      "غريس",
+      "واد الأبطال"
+    ]
+  },
+  {
+    "code": "30",
+    "nameAr": "ورقلة",
+    "nameFr": "Ouargla",
+    "deskDeliveryFeeDZD": 550,
+    "homeDeliveryFeeDZD": 800,
+    "deliveryDelayHours": "48-72 ساعة",
+    "communes": [
+      "ورقلة",
+      "حاسي مسعود",
+      "الرويسات",
+      "سيدي خويلد",
+      "البرمة"
+    ]
+  },
+  {
+    "code": "31",
+    "nameAr": "وهران",
+    "nameFr": "Oran",
+    "deskDeliveryFeeDZD": 350,
+    "homeDeliveryFeeDZD": 550,
+    "deliveryDelayHours": "24-48 ساعة",
+    "communes": [
+      "وهران",
+      "بئر الجير",
+      "السانية",
+      "عين الترك",
+      "أرزيو",
+      "بطيوة",
+      "قديل",
+      "مرسى الكبير"
+    ]
+  },
+  {
+    "code": "32",
+    "nameAr": "البيض",
+    "nameFr": "El Bayadh",
+    "deskDeliveryFeeDZD": 500,
+    "homeDeliveryFeeDZD": 750,
+    "deliveryDelayHours": "48 ساعة",
+    "communes": [
+      "البيض",
+      "الأبيض سيدي الشيخ",
+      "بوقطب",
+      "بريزينة",
+      "الرقاصة"
+    ]
+  },
+  {
+    "code": "33",
+    "nameAr": "إليزي",
+    "nameFr": "Illizi",
+    "deskDeliveryFeeDZD": 750,
+    "homeDeliveryFeeDZD": 1100,
+    "deliveryDelayHours": "72-96 ساعة",
+    "communes": [
+      "إليزي",
+      "إن أميناس",
+      "دبداب",
+      "برج عمر إدريس"
+    ]
+  },
+  {
+    "code": "34",
+    "nameAr": "برج بوعريريج",
+    "nameFr": "Bordj Bou Arreridj",
+    "deskDeliveryFeeDZD": 350,
+    "homeDeliveryFeeDZD": 600,
+    "deliveryDelayHours": "24-48 ساعة",
+    "communes": [
+      "برج بوعريريج",
+      "رأس الوادي",
+      "المنصورة",
+      "برج زمورة",
+      "الحمادية"
+    ]
+  },
+  {
+    "code": "35",
+    "nameAr": "بومرداس",
+    "nameFr": "Boumerdès",
+    "deskDeliveryFeeDZD": 350,
+    "homeDeliveryFeeDZD": 500,
+    "deliveryDelayHours": "24-48 ساعة",
+    "communes": [
+      "بومرداس",
+      "برج منايل",
+      "دلس",
+      "بودواو",
+      "الثنية",
+      "يسر",
+      "خميس الخشنة"
+    ]
+  },
+  {
+    "code": "36",
+    "nameAr": "الطارف",
+    "nameFr": "El Tarf",
+    "deskDeliveryFeeDZD": 450,
+    "homeDeliveryFeeDZD": 700,
+    "deliveryDelayHours": "24-48 ساعة",
+    "communes": [
+      "الطارف",
+      "القالة",
+      "الذرعان",
+      "بن مهيدي",
+      "بوثلجة"
+    ]
+  },
+  {
+    "code": "37",
+    "nameAr": "تندوف",
+    "nameFr": "Tindouf",
+    "deskDeliveryFeeDZD": 750,
+    "homeDeliveryFeeDZD": 1100,
+    "deliveryDelayHours": "72-96 ساعة",
+    "communes": [
+      "تندوف",
+      "أم العسل"
+    ]
+  },
+  {
+    "code": "38",
+    "nameAr": "تسمسيلت",
+    "nameFr": "Tissemsilt",
+    "deskDeliveryFeeDZD": 400,
+    "homeDeliveryFeeDZD": 650,
+    "deliveryDelayHours": "24-48 ساعة",
+    "communes": [
+      "تسمسيلت",
+      "ثنية الحد",
+      "برج بونعامة",
+      "خميستي",
+      "لرجام"
+    ]
+  },
+  {
+    "code": "39",
+    "nameAr": "الوادي",
+    "nameFr": "El Oued",
+    "deskDeliveryFeeDZD": 500,
+    "homeDeliveryFeeDZD": 750,
+    "deliveryDelayHours": "48 ساعة",
+    "communes": [
+      "الوادي",
+      "قمار",
+      "الدبيلة",
+      "الرقيبة",
+      "حاسي خليفة",
+      "البياضة"
+    ]
+  },
+  {
+    "code": "40",
+    "nameAr": "خنشلة",
+    "nameFr": "Khenchela",
+    "deskDeliveryFeeDZD": 450,
+    "homeDeliveryFeeDZD": 700,
+    "deliveryDelayHours": "24-48 ساعة",
+    "communes": [
+      "خنشلة",
+      "قايس",
+      "ششار",
+      "بابار",
+      "المحمل"
+    ]
+  },
+  {
+    "code": "41",
+    "nameAr": "سوق أهراس",
+    "nameFr": "Souk Ahras",
+    "deskDeliveryFeeDZD": 450,
+    "homeDeliveryFeeDZD": 700,
+    "deliveryDelayHours": "24-48 ساعة",
+    "communes": [
+      "سوق أهراس",
+      "سدراتة",
+      "مداوروش",
+      "تاورة",
+      "المراهنة"
+    ]
+  },
+  {
+    "code": "42",
+    "nameAr": "تيبازة",
+    "nameFr": "Tipaza",
+    "deskDeliveryFeeDZD": 350,
+    "homeDeliveryFeeDZD": 500,
+    "deliveryDelayHours": "24-48 ساعة",
+    "communes": [
+      "تيبازة",
+      "شرشال",
+      "القليعة",
+      "حجوط",
+      "بوسماعيل",
+      "فوكة",
+      "الداموس"
+    ]
+  },
+  {
+    "code": "43",
+    "nameAr": "ميلة",
+    "nameFr": "Mila",
+    "deskDeliveryFeeDZD": 400,
+    "homeDeliveryFeeDZD": 650,
+    "deliveryDelayHours": "24-48 ساعة",
+    "communes": [
+      "ميلة",
+      "شلغوم العيد",
+      "تاجنانت",
+      "فرجيوة",
+      "قرارم قوقة"
+    ]
+  },
+  {
+    "code": "44",
+    "nameAr": "عين الدفلى",
+    "nameFr": "Aïn Defla",
+    "deskDeliveryFeeDZD": 350,
+    "homeDeliveryFeeDZD": 550,
+    "deliveryDelayHours": "24-48 ساعة",
+    "communes": [
+      "عين الدفلى",
+      "خميس مليانة",
+      "مليانة",
+      "العطاف",
+      "جليدة",
+      "الروينة"
+    ]
+  },
+  {
+    "code": "45",
+    "nameAr": "النعامة",
+    "nameFr": "Naâma",
+    "deskDeliveryFeeDZD": 550,
+    "homeDeliveryFeeDZD": 800,
+    "deliveryDelayHours": "48 ساعة",
+    "communes": [
+      "النعامة",
+      "المشرية",
+      "عين الصفراء",
+      "مكمن بن عمار",
+      "عسلة"
+    ]
+  },
+  {
+    "code": "46",
+    "nameAr": "عين تموشنت",
+    "nameFr": "Aïn Témouchent",
+    "deskDeliveryFeeDZD": 400,
+    "homeDeliveryFeeDZD": 650,
+    "deliveryDelayHours": "24-48 ساعة",
+    "communes": [
+      "عين تموشنت",
+      "بني صاف",
+      "حمام بوحجر",
+      "العامرية",
+      "عين الكيحل"
+    ]
+  },
+  {
+    "code": "47",
+    "nameAr": "غرداية",
+    "nameFr": "Ghardaïa",
+    "deskDeliveryFeeDZD": 500,
+    "homeDeliveryFeeDZD": 750,
+    "deliveryDelayHours": "48 ساعة",
+    "communes": [
+      "غرداية",
+      "متليلي",
+      "القرارة",
+      "بريان",
+      "ضاية بن ضحوة"
+    ]
+  },
+  {
+    "code": "48",
+    "nameAr": "غليزان",
+    "nameFr": "Relizane",
+    "deskDeliveryFeeDZD": 400,
+    "homeDeliveryFeeDZD": 650,
+    "deliveryDelayHours": "24-48 ساعة",
+    "communes": [
+      "غليزان",
+      "وادي ارهيو",
+      "مازونة",
+      "عمي موسى",
+      "يلل",
+      "زمورة"
+    ]
+  },
+  {
+    "code": "49",
+    "nameAr": "تيميمون",
+    "nameFr": "Timimoun",
+    "deskDeliveryFeeDZD": 700,
+    "homeDeliveryFeeDZD": 1000,
+    "deliveryDelayHours": "48-72 ساعة",
+    "communes": [
+      "تيميمون",
+      "أوقروت",
+      "شروين",
+      "تينركوك",
+      "دلداول"
+    ]
+  },
+  {
+    "code": "50",
+    "nameAr": "برج باجي مختار",
+    "nameFr": "Bordj Badji Mokhtar",
+    "deskDeliveryFeeDZD": 850,
+    "homeDeliveryFeeDZD": 1250,
+    "deliveryDelayHours": "72-96 ساعة",
+    "communes": [
+      "برج باجي مختار",
+      "تيمياوين"
+    ]
+  },
+  {
+    "code": "51",
+    "nameAr": "أولاد جلال",
+    "nameFr": "Ouled Djellal",
+    "deskDeliveryFeeDZD": 500,
+    "homeDeliveryFeeDZD": 750,
+    "deliveryDelayHours": "48 ساعة",
+    "communes": [
+      "أولاد جلال",
+      "سيدي خالد",
+      "رأس الميعاد",
+      "البسباس"
+    ]
+  },
+  {
+    "code": "52",
+    "nameAr": "بني عباس",
+    "nameFr": "Béni Abbès",
+    "deskDeliveryFeeDZD": 650,
+    "homeDeliveryFeeDZD": 950,
+    "deliveryDelayHours": "48-72 ساعة",
+    "communes": [
+      "بني عباس",
+      "كرزاز",
+      "الواتة",
+      "إقلي",
+      "تبلبالة"
+    ]
+  },
+  {
+    "code": "53",
+    "nameAr": "عين صالح",
+    "nameFr": "In Salah",
+    "deskDeliveryFeeDZD": 700,
+    "homeDeliveryFeeDZD": 1050,
+    "deliveryDelayHours": "48-72 ساعة",
+    "communes": [
+      "عين صالح",
+      "إفقيرة",
+      "إن غار"
+    ]
+  },
+  {
+    "code": "54",
+    "nameAr": "عين قزام",
+    "nameFr": "In Guezzam",
+    "deskDeliveryFeeDZD": 850,
+    "homeDeliveryFeeDZD": 1250,
+    "deliveryDelayHours": "72-96 ساعة",
+    "communes": [
+      "عين قزام",
+      "تين زواتين"
+    ]
+  },
+  {
+    "code": "55",
+    "nameAr": "تقرت",
+    "nameFr": "Touggourt",
+    "deskDeliveryFeeDZD": 550,
+    "homeDeliveryFeeDZD": 800,
+    "deliveryDelayHours": "48 ساعة",
+    "communes": [
+      "تقرت",
+      "النزلة",
+      "تماسين",
+      "الحجيرة",
+      "الطيبات"
+    ]
+  },
+  {
+    "code": "56",
+    "nameAr": "جانت",
+    "nameFr": "Djanet",
+    "deskDeliveryFeeDZD": 800,
+    "homeDeliveryFeeDZD": 1200,
+    "deliveryDelayHours": "72-96 ساعة",
+    "communes": [
+      "جانت",
+      "برج الحواس"
+    ]
+  },
+  {
+    "code": "57",
+    "nameAr": "المغير",
+    "nameFr": "El M'Ghair",
+    "deskDeliveryFeeDZD": 500,
+    "homeDeliveryFeeDZD": 750,
+    "deliveryDelayHours": "48 ساعة",
+    "communes": [
+      "المغير",
+      "جامعة",
+      "أم الطيور",
+      "سيدي عمران"
+    ]
+  },
+  {
+    "code": "58",
+    "nameAr": "المنيعة",
+    "nameFr": "El Meniaa",
+    "deskDeliveryFeeDZD": 600,
+    "homeDeliveryFeeDZD": 850,
+    "deliveryDelayHours": "48-72 ساعة",
+    "communes": [
+      "المنيعة",
+      "حاسي القارة",
+      "حاسي الفحل"
+    ]
+  }
+]

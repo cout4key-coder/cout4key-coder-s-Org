@@ -1,0 +1,16 @@
+services:
+  - type: web
+    name: bewaba-tarbia
+    env: node
+    plan: free
+    buildCommand: npm install && npm run build
+    startCommand: npm start
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: SUPABASE_URL
+        value: https://kucidgholhqrslsjpdya.supabase.co
+      - key: SUPABASE_KEY
+        value: sb_publishable_PPz-jwK3xk548FaO84BWOA_Ip5GE-GN
+      - key: SUPABASE_PROJECT_ID
+        value: kucidgholhqrslsjpdya

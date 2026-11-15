@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 850" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad6" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2B1A12"/>
+      <stop offset="50%" stop-color="#4D2E1B"/>
+      <stop offset="100%" stop-color="#1A0D06"/>
+    </linearGradient>
+    <linearGradient id="goldGrad6" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#B8852B"/>
+      <stop offset="50%" stop-color="#F3C363"/>
+      <stop offset="100%" stop-color="#D9A441"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="600" height="850" fill="url(#bgGrad6)"/>
+  <rect x="0" y="0" width="35" height="850" fill="#140A04" opacity="0.8"/>
+  <line x1="35" y1="0" x2="35" y2="850" stroke="#F3C363" stroke-width="1.5" opacity="0.4"/>
+
+  <rect x="55" y="45" width="490" height="760" fill="none" stroke="#D9A441" stroke-width="1.5" stroke-opacity="0.4"/>
+  <rect x="65" y="55" width="470" height="740" fill="none" stroke="#FDBA74" stroke-width="0.75" stroke-opacity="0.3"/>
+
+  <text x="300" y="95" text-anchor="middle" font-family="'Cairo', sans-serif" font-weight="700" font-size="16" fill="#D9A441" letter-spacing="2">
+    سلسلة الترقية والمسار المهني للأستاذ
+  </text>
+  <line x1="210" y1="112" x2="390" y2="112" stroke="#D9A441" stroke-width="1" stroke-opacity="0.5"/>
+
+  <rect x="150" y="145" width="300" height="38" rx="6" fill="#431D0A" stroke="#D9A441" stroke-width="1"/>
+  <text x="300" y="170" text-anchor="middle" font-family="'Cairo', sans-serif" font-weight="700" font-size="15" fill="#FFFFFF">
+    الامتحانات المهنية لرتبة أستاذ رئيسي ومكون
+  </text>
+
+  <text x="300" y="270" text-anchor="middle" font-family="'Cairo', sans-serif" font-weight="900" font-size="44" fill="#FFFFFF">
+    دليل الترقية المهنية
+  </text>
+  <text x="300" y="340" text-anchor="middle" font-family="'Cairo', sans-serif" font-weight="900" font-size="46" fill="url(#goldGrad6)">
+    أستاذ رئيسي ومكون
+  </text>
+  <text x="300" y="405" text-anchor="middle" font-family="'Cairo', sans-serif" font-weight="800" font-size="28" fill="#FED7AA">
+    تحليل الممارسات التعليمية
+  </text>
+
+  <text x="300" y="455" text-anchor="middle" font-family="'Cairo', sans-serif" font-weight="600" font-size="16" fill="#CBD5E1">
+    هندسة التكوين · إعداد المقاطع التعلمية · شبكات التحليل الذاتي
+  </text>
+
+  <!-- Stepped Ascent / Star Icon -->
+  <g transform="translate(300, 555)">
+    <circle r="72" fill="#241006" stroke="#D9A441" stroke-width="2"/>
+    <path d="M-40 25 L-20 10 L0 -5 L20 -20 L40 -35" stroke="#F3C363" stroke-width="3" fill="none"/>
+    <circle cx="40" cy="-35" r="7" fill="#F3C363"/>
+  </g>
+
+  <rect x="90" y="665" width="420" height="50" rx="4" fill="#1C0E07" stroke="#3D1E10" stroke-width="1"/>
+  <text x="300" y="695" text-anchor="middle" font-family="'Cairo', sans-serif" font-weight="700" font-size="15" fill="#F3C363">
+    وضعيات بيداغوجية تحليلية جاهزة للامتحان المهني
+  </text>
+
+  <text x="300" y="765" text-anchor="middle" font-family="'Cairo', sans-serif" font-weight="800" font-size="20" fill="#FFFFFF">
+    بوابة التربية
+  </text>
+  <text x="300" y="788" text-anchor="middle" font-family="'Cairo', sans-serif" font-weight="500" font-size="12" fill="#94A3B8">
+    طبعة 2026
+  </text>
+</svg>
